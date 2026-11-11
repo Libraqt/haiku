@@ -31,7 +31,7 @@ margin: 5% 1rem 0 1rem;
 
 div {
 	transition-property:transform;
-	transition-duration:0.5s;
+	transition-duration:3s;
 }
 
 .last {
