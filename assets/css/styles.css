@@ -8,7 +8,8 @@ body {
 	overflow:hidden;
 	background-image:url(../img/download\ \(1\).gif);
 	background-repeat:no-repeat;
-	
+	background-position:center;
+	background-size:cover;
 
 
 
