@@ -2,5 +2,5 @@
 
 .grid {
 	display:grid;
-	grid-template:2fr 2fr 2fr;
+	grid-template:1fr 2fr 2fr;
 }
