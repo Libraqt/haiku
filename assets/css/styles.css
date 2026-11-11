@@ -34,6 +34,7 @@ margin: 5% 1rem 0 1rem;
 	border-bottom: 3px solid rgb(220,200,180);
 }
 
-body {
-	text-shadow: 2px 2px 4px rgba(232, 224, 224, 0.5);
+.hero-text {
+	color:white;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
