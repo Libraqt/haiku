@@ -29,6 +29,11 @@ margin: 5% 1rem 0 1rem;
 
 }
 
+div {
+	transition-property:transform;
+	transition-duration:0.5s;
+}
+
 .last {
 	padding-bottom:1rem;
 	border-bottom: 3px solid rgb(220,200,180);
