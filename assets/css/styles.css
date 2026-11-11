@@ -16,7 +16,7 @@ body {
 	display:grid;
 	grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
 	gap: 2rem;
-margin: 10% 4rem 0 4rem;
+margin: 20% 4rem 0 4rem;
 
 }
 
