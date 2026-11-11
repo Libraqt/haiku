@@ -9,7 +9,7 @@ function randomize() {
     console.log(divs.length,"randomize");
     divs.forEach(function(div) {
 let scale= randomNumber(0.5,1.2);
-let translateX = randomNumber(0,50);
+let translateX = randomNumber(-10,50);
 let translateY = randomNumber(0,20);
 let rotate = randomNumber(0,360);
 
