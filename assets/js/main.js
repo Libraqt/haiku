@@ -14,7 +14,7 @@ let translateY = randomNumber(0,50);
 let rotate = randomNumber(0,360);
 
 if (Math.random() > 0.5) {
-    scale = randomNumber(0.5,1.2);
+    scale = 2;
     translateX = randomNumber(0,80);
     translateY = randomNumber(0,80);
 
