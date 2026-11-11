@@ -19,7 +19,7 @@ if (Math.random() > 0.5) {
     translateY = randomNumber(0,80);
 
     }
-    div.computedStyleMap.transform = `scale(${scale})  translate(${translateX}%, ${translateY}%) 
+    div.style.transform = `scale(${scale})  translate(${translateX}%, ${translateY}%) 
     rotate(${rotate}deg)`;
 
 });
